@@ -14,7 +14,7 @@
 
 1. Clona el repositorio a tu máquina local.
    ```bash
-   git clone https://github.com/tu_usuario/ContadorDeLetras.git
+   git clone https://github.com/nsandr3s/ContadorDeTextoPython.git
     ```
  2. Navega al directorio del proyecto.
     ```bash
